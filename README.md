@@ -30,6 +30,6 @@ Percepção pós-análise:
 2. Quanto mais um cliente entra em contato com o Banco, maior a chance do mesmo solicitar o cancelamento do produto. - > Plano de ação: Analisar o motivo do contato / tratar os clientes que mais entraram em contato com a entidade financeira.
 
 3. Há uma percepção de que quanto menos o cliente utiliza o cartão, maiores as chances de solicitação de um eventual cancelamento do produto.
-  - Com mais de 80 transações realizadas com o produto, a porcentagem de cancelamento é quase nula;
-  - Clientes com menos de 60 transações são muito críticos;
-  - A mesma coisa acontece com a quantidade de transações.
+    - Com mais de 80 transações realizadas com o produto, a porcentagem de cancelamento é quase nula;
+    - Clientes com menos de 60 transações são muito críticos;
+    - A mesma coisa acontece com a quantidade de transações.
